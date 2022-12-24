@@ -1,5 +1,5 @@
 {
-  "name": "Win-1.0",
+  "name": "vite",
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",

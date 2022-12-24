@@ -13,10 +13,7 @@ You may open the site in chrome instead or click OK to open a guide on how to en
 `);
   if (open) {
     window
-      .open(
-        "https://github.com/PiyushSuthar/Windows-11-Web#known-issues",
-        "_blank"
-      )
+      .open("","_blank")
       ?.focus();
     localStorage.setItem("hidePrompt", "true");
   }
