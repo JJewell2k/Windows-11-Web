@@ -6,10 +6,10 @@ export const UserProfile = () => {
     <div class={styles.container}>
       <div class={styles.user}>
         <img
-          src="https://avatars.githubusercontent.com/u/32237558?v=4&s=50"
-          alt="Piyush Suthar"
+          src=""
+          alt=""
         />
-        <p>Piyush Suthar</p>
+        <p></p>
       </div>
       <ShutDownIcon />
     </div>
