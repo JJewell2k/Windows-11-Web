@@ -1,5 +1,5 @@
 import styles from "./DesktopItem.module.css";
-import { Item } from "../../../Configs/DesktopItems.config";
+import { Item } from ;
 import { useRef, useState } from "preact/hooks";
 import useClickOutside from "../../../hooks/useClickOutside";
 import { useStore } from "nanostores/preact";
